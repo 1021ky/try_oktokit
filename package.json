@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@octokit/core": "^6.1.2",
+    "dotenv": "^16.4.5",
+    "octokit": "^4.0.2"
+  },
+  "name": "try_oktokit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "1021ky"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "type": "module"
+}

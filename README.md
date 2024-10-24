@@ -1,0 +1,1 @@
+使うときは環境変数GITHUB_ACCESS_TOKENにGitHubのアクセストークンを設定してください。
